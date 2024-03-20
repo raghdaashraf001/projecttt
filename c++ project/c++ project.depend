@@ -1,4 +1,13 @@
 # depslib dependency file v1.0
-1584205420 source:c:\users\eslam\desktop\projecttt\c++ project\main.cpp
+1710967361 source:c:\users\eslam\desktop\projecttt\c++ project\main.cpp
 	<iostream>
+	<string>
+	"Person.h"
+
+1710967495 c:\users\eslam\desktop\projecttt\c++ project\include\person.h
+	<iostream>
+	<string>
+
+1710967402 source:c:\users\eslam\desktop\projecttt\c++ project\src\person.cpp
+	"Person.h"
 
